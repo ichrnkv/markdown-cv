@@ -5,9 +5,10 @@ title: Ilya Chernikov's CV
 # Ilya Chernikov
 Lead Data Scientist
 
-Dynamic and results-driven Data Science Professional with 6+ years of experience in machine learning engineering and data-driven strategy formulation.<br/>
-Expertise in designing and implementing advanced algorithms, improving search accuracy, and enhancing customer interaction through innovative AI and natural language processing solutions.<br/>
-Skilled in developing state-of-the-art models and streamlining processes to enhance efficiency and performance across business functions. Passionate about leveraging cutting-edge research and technologies to drive business transformation and optimize outcomes.<br/>
+As a Lead Data Scientist with over 6 years of experience, I specialize in using advanced machine learning techniques to deliver impactful business results.<br/>
+In my current leadership role, I have successfully increased conversion rates and enhanced search accuracy through innovative algorithm development.<br/>
+My expertise in Language Models (LLMs) and Natural Language Processing (NLP) has led to the creation of intelligent systems that automate customer interactions.<br/>
+I am dedicated to applying the latest AI advancements to optimize processes and drive organizational success.
 
 <a href="i@ichrnkv.ru">i@ichrnkv.ru</a> - +7 (977) 398 26 46
 
@@ -21,31 +22,31 @@ Skilled in developing state-of-the-art models and streamlining processes to enha
 ## Experience
 
 `2023-present`
-**Lead Data Scientist**, *Lamoda*, Moscow, Russia.\
-⁃ Complementary Recommendations Algorithm: Increased conversion rate by N% using Fashion CLIP to curate outfits for products.\
-⁃ Semantic Search: Achieved a 0.4% growth in conversion by implementing a neural network-based approach.\
-⁃ Attribute Prediction from Images: Enhanced the search index with a CLIP-based algorithm to improve search accuracy.\
-⁃ LLM Assistant with LoRa and RAG Developed an intelligent assistant using Mistral Nemo and RAG to enhance automation in customer interactions.
+**Lead Data Scientist**, *Lamoda*, Moscow, Russia.  \
+- **Complementary Recommendations Algorithm:** Successfully increased conversion rates by N% by leveraging Fashion CLIP technology to curate product outfits.\
+- **Semantic Search:** Implemented a neural network-based solution, achieving a 0.4% increase in conversion rates.\
+- **Attribute Prediction from Images:** Improved search accuracy by enhancing the search index with a CLIP-based algorithm.\
+- **LLM Assistant with LoRa and RAG:** Developed an intelligent assistant using Mistral Nemo and RAG, significantly automating customer interactions.
 
 `2020-2023`
-**Senior ML Engineer**, *Libertex*, Podgorica, Montenegro.\
-⁃ Decreased fraud detection time by up to ~25% by developing an antifraud engine based on state-of-the-art neural net architectures.\
-⁃ Reduced new models development time by half through the creation of a self-supervised model for the raw sequence data embedment acting as a backbone.\
-⁃ Automated antifraud processes by developing BERT-like model for the masked language modeling tasks.\
-⁃ Current tasks involve studying the latest research trends, analysis of their applicability to the company’s business needs, and implementation of published results.
+**Senior ML Engineer**, *Libertex*, Podgorica, Montenegro.  \
+- **Fraud Detection Optimization:** Decreased fraud detection time by approximately 25% through the development of a state-of-the-art neural network-based antifraud engine.\
+- **Accelerated Model Development:** Halved the time required for new model development by creating a self-supervised model for raw sequence data embedding.\
+- **Automation in Antifraud Processes:** Automated antifraud processing by designing a BERT-like model tailored for masked language modeling tasks.\
+- **Current Responsibilities:** Engaged in researching the latest trends, analyzing their application to business needs, and implementing recent advancements.
 
 `2018-2020`
-**Data Scientist**, *Yandex*, Moscow, Russia.\
-⁃ Increased conversion to payment rate by ~50% through the development of a lead scoring model based on gradient boosting for the Sales division.\
-⁃ Achieved 90+% accuracy in call center load prediction by creating a time-series forecasting model.\
-⁃ Created a new business line by developing from scratch a unified pipeline for sales process automation.\
-⁃ Built multiple reports and dashboards using internal BI tools.
+**Data Scientist**, *Yandex*, Moscow, Russia.  \
+- **Lead Scoring Model:** Enhanced payment conversion rates by approximately 50% in the Sales division with a gradient boosting lead scoring model.\  
+- **Call Center Load Prediction:** Achieved over 90% accuracy in forecasting call center loads using a time-series model.\
+- **Sales Process Automation:** Pioneered a unified pipeline for automating sales processes, leading to the creation of a new business line.\
+- **Reporting and Analysis:** Developed various reports and dashboards utilizing internal business intelligence tools.
 
 `2015-2018`
-**Head of dealing on own account**, *Libertex Europe*, Limassol, Cyprus.\
-⁃ Managed the company’s open positions, ensuring that internal procedures and risk levels are being followed.\
-⁃ Conducted reportings following the requirements of the EU regulator (CySEC).\
-⁃ Carried out regular reports for upper management.
+**Head of dealing on own account**, *Libertex Europe*, Limassol, Cyprus.  \
+- **Position Management:** Oversaw the company's open positions to ensure compliance with internal procedures and risk management standards.\
+- **Regulatory Reporting:** Prepared detailed reports in accordance with EU regulatory requirements (CySEC).\
+- **Executive Reporting:** Produced regular analytical reports for upper management.
 
 
 ## Education
