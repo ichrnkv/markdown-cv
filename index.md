@@ -73,11 +73,11 @@ Basic: Serbian
 
 ## Personal
 
-Birth date: 9 March 1980
+Birth date: 2 August 1992
 
 Citizenship: Russia
 
 Residence: Russia (Permanent resident)
 
 
-<br/>Last updated: December 2023<br/><br/>
+<br/><br/><br/>
