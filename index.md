@@ -2,9 +2,10 @@
 layout: cv
 title: Ilya Chernikov's CV
 ---
-# Ilya Chernikov  \
+# Ilya Chernikov
 
-**Lead Data Scientist**  \
+Lead Data Scientist
+
 As a Lead Data Scientist with over 6 years of experience, I specialize in using advanced machine learning techniques to deliver impactful business results.\
 In my current leadership role, I have successfully increased conversion rates and enhanced search accuracy through innovative algorithm development.\
 My expertise in Language Models (LLMs) and Natural Language Processing (NLP) has led to the creation of intelligent systems that automate customer interactions.\
