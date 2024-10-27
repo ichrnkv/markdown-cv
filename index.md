@@ -1,24 +1,20 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Ilya Chernikov's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Ilya Chernikov
+Lead Data Scientist
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+tdb<br/>
+tdb<br/>
+tbd<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="i@ichrnkv.ru">i@ichrnkv.ru</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
-  <a href="http://www.helsinki.fi/geodynamics"><i class="fa-solid fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
-  <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
-  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fa-brands fa-twitter"></i> @dave_whipp</a>
+  <a href="https://github.com/ichrnkv"><i class="fa-brands fa-github"></i> ichrnkv</a> - 
+  <a href="https://www.linkedin.com/in/ichrnkv"><i class="fa-brands fa-linkedin"></i>ichrnkv</a> - 
+  <a href="https://t.me/ichrnkv"><i class="fa-brands fa-telegram"></i>ichrnkv</a>
 </div>
 
 ## Education
