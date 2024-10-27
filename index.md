@@ -3,6 +3,7 @@ layout: cv
 title: Ilya Chernikov's CV
 ---
 # Ilya Chernikov
+<br/>
 Lead Data Scientist
 
 As a Lead Data Scientist with over 6 years of experience, I specialize in using advanced machine learning techniques to deliver impactful business results.<br/>
