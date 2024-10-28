@@ -38,7 +38,7 @@ I am dedicated to applying the latest AI advancements to optimize processes and 
 
 `2018-2020`
 **Data Scientist, Yandex**, Moscow, Russia.  \
-⁃ *Lead Scoring Model:* Enhanced payment conversion rates by approximately 50% in the Sales division with a gradient boosting lead scoring model.\  
+⁃ *Lead Scoring Model:* Enhanced payment conversion rates by approximately 50% in the Sales division with a gradient boosting lead scoring model.\
 ⁃ *Call Center Load Prediction:* Achieved over 90% accuracy in forecasting call center loads using a time-series model.\
 ⁃ *Sales Process Automation:* Pioneered a unified pipeline for automating sales processes, leading to the creation of a new business line.\
 ⁃ *Reporting and Analysis:* Developed various reports and dashboards utilizing internal business intelligence tools.
